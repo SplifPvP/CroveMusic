@@ -41,7 +41,7 @@ module.exports = {
 - put `.env.example/TOKEN`, the token of the bot available on the [Discord Developers](https://discordapp.com/developers/applications) section
 - Edit `.env.example` file and paste your bot token.
 - Rename `.env.example` to `.env`.
-- The activity of the bot `app/playing`,.
+- The activity of the bot `app/playing`.
 
 ## 👮‍♂️ Warning
 
